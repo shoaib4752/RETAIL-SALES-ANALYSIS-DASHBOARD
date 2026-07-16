@@ -1,0 +1,19 @@
+ProductSubCategoryID,ProductCategoryID,ProductSubCategoryName
+100,1,Mobiles
+101,1,Laptops
+102,1,Accessories
+103,2,Men's Wear
+104,2,Women's Wear
+105,2,Kids Wear
+106,3,Packaged Food
+107,3,Beverages
+108,3,Dairy
+109,4,Furniture
+110,4,Home Decor
+111,4,Kitchenware
+112,5,Skincare
+113,5,Haircare
+114,5,Makeup
+115,6,Fitness Equipment
+116,6,Outdoor Gear
+117,6,Footwear
